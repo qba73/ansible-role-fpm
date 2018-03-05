@@ -1,14 +1,13 @@
 galaxy_info:
   author: Jakub Jarosz
   description: Ansible Role for installing FPM
-  company: SevenBytes
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
   issue_tracker_url: https://github.com/qba73/ansible-role-fpm/issues
 
   # Some suggested licenses:
-  license: license MIT 
+  license: license BSD
   min_ansible_version: 2.4
 
   # platforms is a list of platforms, and each platform has a name and a list of versions.
